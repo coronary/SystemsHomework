@@ -1,2 +1,2 @@
-# SystemsHomework
-Repository for homework assignments in my systems class
+# Systems Homework
+CSC 373 Computer Systems class homework
